@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 <b>I am a Developer in Websites etc. </b> 」
+    「 <b>I am a Developer</b> 」
     <br>
     <br>
   </samp>
