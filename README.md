@@ -54,24 +54,3 @@
 ![VSStudio](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Javascript](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<p align="center">
-  <a href="https://github.com/Tap1337">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tap1337&theme=radical&border=7F3FBF&background=0D1117" alt="Tap's GitHub streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Tap1337">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tap1337&theme=radical" alt="Tap's GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-    <a href="https://github.com/Tap1337"><img alt="Tap's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Tap1337&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/Tap1337"><img alt="Tap's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Tap1337&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-![Tap's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tap1337&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
