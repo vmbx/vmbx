@@ -28,7 +28,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 <b>Developer</b> 」
+    「 <b>C# | C++ | Python | Kali Linux | Web Developer | Debugger | Exploiter</b> 」
     <br>
     <br>
   </samp>
