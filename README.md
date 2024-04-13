@@ -16,7 +16,7 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=antonkomarev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-![](https://komarev.com/ghpvc/?username=antonkomarev&style=flat-square)
+![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; L3v1k ᴷᵃˡⁱ / 
