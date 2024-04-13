@@ -12,9 +12,9 @@
 
  -->
 
-<a href="![](https://komarev.com/ghpvc/?username=Tap1337)">
+<a href="![](https://komarev.com/ghpvc/?username=Tap1337)"></a>
 ![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
-</a>
+
 
 <!-- Intro  -->
 <h3 align="center">
