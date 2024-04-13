@@ -32,11 +32,7 @@
     <br>
     <br>
   </samp>
-</p>
 
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
 ## Languages 
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
