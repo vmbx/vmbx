@@ -28,14 +28,12 @@
 <p align="center"> 
   <samp>
     <br>
-    「 <b>C# | C++ | Python | Kali Linux | Web Developer | Debugger | Exploiter</b> 」
+    「 <b>C# | C++ | Python | Kali Linux | Web Developer | Debugger | Exploiter | Reverse Engineer</b> 」
     <br>
     <br>
   </samp>
 </p>
 
-<!-- About Section -->
- # About me
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
