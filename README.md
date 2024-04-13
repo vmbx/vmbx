@@ -12,8 +12,8 @@
 
  -->
 
-<a href="![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)">
-  <img align="right" src="https://komarev.com/ghpvc/?username=antonkomarev&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="![](https://komarev.com/ghpvc/?username=Tap1337)">
+![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
 </a>
 
 <!-- Intro  -->
