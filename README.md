@@ -27,7 +27,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 <b>C# | C++ | Python | Kali Linux | Web Developer | Debugger | Exploiter | Reverse Engineer</b> 」
+    「 <b>C# | C | C++ | Python | Kali Linux | Web Developer | Debugger | Exploiter | Reverse Engineer</b> 」
     <br>
     <br>
   </samp>
