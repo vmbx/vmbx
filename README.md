@@ -17,5 +17,5 @@
     <br>
   </samp>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=py,nodejs,html,css,cs,cpp,c,visualstudio,vscode,kali,java,"/>
+      <img src="https://skillicons.dev/icons?i=py,nodejs,html,css,cs,cpp,c,visualstudio,vscode,kali,java,linux,"/>
 </p>
