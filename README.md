@@ -1,10 +1,9 @@
-<h1 align="center">Im sys</h1>
 
-<h2 align="center">
+<h1 align="center">
         <samp>&gt; L3v1k ᴷᵃˡⁱ / 
                 <b><a target="_blank" href="https://github.com/Tap1337">Tap1337</a></b>
         </samp>
-</h2>
+</h1>
 
 <a href="![](https://komarev.com/ghpvc/?username=Tap1337)"></a>
 ![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
