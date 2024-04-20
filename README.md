@@ -14,7 +14,8 @@
     <br>
       「 <b>C# | C | C++ | Python | Kali Linux | Web Developer | Debugger | Exploiter | Reverse Engineer</b> 」
     <br>
+    <br>
   </samp>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=py,nodejs,html,css,cs,cpp,c,visualstudio,vscode,kali,java,linux,"/>
+      <img src="https://skillicons.dev/icons?i=py,nodejs,html,css,cs,cpp,c,visualstudio,vscode,kali,linux,"/>
 </p>
