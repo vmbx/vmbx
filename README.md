@@ -1,3 +1,5 @@
+<a href="![](https://komarev.com/ghpvc/?username=Tap1337)"></a>
+![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
 
 <h1 align="center">
         <samp>&gt; L3v1k ᴷᵃˡⁱ / 
@@ -5,8 +7,7 @@
         </samp>
 </h1>
 
-<a href="![](https://komarev.com/ghpvc/?username=Tap1337)"></a>
-![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
+
 
 <p align="center"> 
   <samp>
