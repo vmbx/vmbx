@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+20+Code&size=35&pause=1000&random=false&width=435&lines=Reverse+Enginner;Developer+in+Website+%26+Exploits;5%2B+Year+Exploiting++Experince;1.5%2B+Year+Kali+Linux+Experince" /></a>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+20+Code&size=35&pause=1000&random=false&width=435&lines=Reverse+Enginner;Developer+in+Website+%26+Exploits;5%2B+Year+Exploiting++Experince;1.5%2B+Year+Kali+Linux+Experince" /></a>
 </p>
 
 <h1 align="center">
