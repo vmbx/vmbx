@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
 
 <p align="center">
-          <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&random=false&width=435&lines=Reverse+Enginner;Developer+in+Website+%26+Exploits;5%2B+Year+Exploiting++Experince;1.5%2B+Year+Kali+Linux+Experince" alt="Typing SVG" /></a></p>
+<img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25" /></a>
+</p>
 
 <h1 align="center">
         <samp>&gt; L3v1k ᴷᵃˡⁱ / 
