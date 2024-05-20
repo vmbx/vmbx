@@ -7,9 +7,11 @@
                 <b><a target="_blank" href="https://github.com/Tap1337">Tap1337</a></b>
         </samp>
 </h1>
+
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Developer%20of%20ChatCool%20Bot;Used%20by%20over%20100,000%20users;3+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=700&height=45&color=fff53a&vCenter=true&pause=1000&size=25](https://readme-typing-svg.demolab.com?font=Fira+20+Code&size=25&pause=1000&color=FFF53A&center=true&vCenter=true&random=false&width=435&lines=Reverse+Enginner;Developer+in+Website+%26+Exploits;5%2B+Year+Exploiting++Experince;1.5%2B+Year+Kali+Linux+Experince" /></a>
 </p>
+
 ### About Me:    
 I'm adept at debugging intricate C# applications, optimizing algorithms in C, crafting efficient solutions in C++, rapidly prototyping with Python, and navigating the realms of Kali Linux as a skilled web developer, debugger, exploiter, and reverse engineer.
 
