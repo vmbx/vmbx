@@ -7,7 +7,7 @@
 </h1>
 
 ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
+I'm adept at debugging intricate C# applications, optimizing algorithms in C, crafting efficient solutions in C++, rapidly prototyping with Python, and navigating the realms of Kali Linux as a skilled web developer, debugger, exploiter, and reverse engineer.
 
 ### Languages:
 | Python | Node.js | HTML | CSS | C# | C++ | C | Visual Studio | VS Code | Kali Linux | Linux |
