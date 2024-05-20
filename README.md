@@ -2,12 +2,10 @@
 <h1 align="center">
         <samp>&gt; L3v1k ᴷᵃˡⁱ / 
                 <b><a target="_blank" href="https://github.com/Tap1337">Tap1337</a></b>
-                ### About Me:    
-I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
-
         </samp>
 </h1>
-
+### About Me:    
+I'm a passionate data scientist with a knack for predictive analytics, specializing in recurrent neural networks (RNN) and LSTM models. I thrive on tackling regression tasks and exploring the fascinating realm of reinforcement learning (RL). Additionally, I have a strong foundation in classical machine learning and possess the requisite mathematical prowess.
 
 
 ### Languages:
