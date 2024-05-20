@@ -1,8 +1,10 @@
 <h1 align="center">
         <samp>&gt; L3v1k ᴷᵃˡⁱ / 
                 <b><a target="_blank" href="https://github.com/Tap1337">Tap1337</a></b>
+                ![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
         </samp>
 </h1>
+
 
 ### Languages:
 | Python3 | C | JS | Solidity |
