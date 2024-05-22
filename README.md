@@ -24,3 +24,9 @@ I'm adept at debugging intricate C# applications, optimizing algorithms in C, cr
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tap1337&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
 
+<a href="https://github.com/Tap1337/Aria-Tool">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tap1337&repo=Aria-Tool&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
+</a>
+<a href="https://github.com/Tap1337/Firewall-SerialChecker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tap1337&repo=Firewall-SerialChecker&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
+</a>
