@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+20+Code&size=25&pause=1000&color=FFF53A&center=true&vCenter=true&random=false&width=435&lines=Reverse+Enginner;Dev+in+Website+%26+Exploits;5%2B+Year+Exploit++Experince;1.5%2B+Year+Kali+Experince" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+20+Code&size=25&pause=1000&color=FFF53A&center=true&vCenter=true&random=false&width=435&lines=Reverse+Engineer;Dev+in+Website+%26+Exploits;5%2B+Year+Exploit++Experince;1.5%2B+Year+Kali+Experince" /></a>
 </p>
 
 ### About Me:    
