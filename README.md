@@ -3,9 +3,7 @@
 
 
 <h1 align="center">
-        <samp>&gt; 
-                <b><a target="_blank" href="https://github.com/Tap1337">Kali</a></b>
-        </samp>
+        Kali
 </h1>
 
 <p align="center">
