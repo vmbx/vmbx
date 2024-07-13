@@ -1,9 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
 
 
-
+[Noxius-SerialChecker](https://github.com/rotomicora/Noxius-SerialChecker)
 <h1 align="center">
         [Kali.dll](https://discord.gg/UhgAMrrQ)
+        [Noxius-SerialChecker](https://github.com/rotomicora/Noxius-SerialChecker)
 </h1>
 
 <p align="center">
