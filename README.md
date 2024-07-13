@@ -3,13 +3,14 @@
 
 [Noxius-SerialChecker](https://github.com/rotomicora/Noxius-SerialChecker)
 <h1 align="center">
-        [Kali.dll](https://discord.gg/UhgAMrrQ)
-        [Noxius-SerialChecker](https://github.com/rotomicora/Noxius-SerialChecker)
+        Kali.dll
 </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+20+Code&size=25&pause=1000&color=FFF53A&center=true&vCenter=true&random=false&width=435&lines=Reverse+Engineer;Dev+in+Website+%26+Exploits;5%2B+Year+Exploit++Experince;1.5%2B+Year+Kali+Experince" /></a>
 </p>
+Discord : [Kali.dll](https://discord.gg/UhgAMrrQ)
+
 ### About Me:    
 I'm adept at debugging intricate C# applications, optimizing algorithms in C, crafting efficient solutions in C++, rapidly prototyping with Python, and navigating the realms of Kali Linux as a skilled web developer, debugger, exploiter, and reverse engineer.
 
