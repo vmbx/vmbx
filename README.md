@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-        Kali.php      Discord: __[Kali.dll](https://discord.gg/UhgAMrrQ)__
+        Kali.php      Discord: [Kali.dll](https://discord.gg/UhgAMrrQ)
 </h1>
 
 <p align="center">
