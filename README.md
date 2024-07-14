@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge)
-
-![](https://komarev.com/ghpvc/?username=Tap1337&style=flat-square)
 Discord : [Kali.dll](https://discord.gg/UhgAMrrQ)
 <h1 align="center">
         Kali.dll
