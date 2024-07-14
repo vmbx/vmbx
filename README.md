@@ -18,26 +18,3 @@ I'm adept at debugging intricate C# applications, optimizing algorithms in C, cr
 |----------|----------|----------|-----|-----|-----|-----|-----|-----|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js"  alt="Node.js" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="55" height="55"/> |  <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Kali Linux" alt="Kali Linux" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
 
-<p align="center" style="background-color: orange; border: 2px solid orange;">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalii1337&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
-### Repositories
-<a href="https://github.com/Kalii1337/Underical-Recode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kalii1337&repo=Underical-Recode&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<a href="https://github.com/Kalii1337/Firewall-SerialChecker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kalii1337&repo=Firewall-SerialChecker&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<a href="https://github.com/Kalii1337/GTA-Gui-Menu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kalii1337&repo=GTA-Gui-Menu&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<a href="https://github.com/Kalii1337/AriaEmailGen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kalii1337&repo=AriaEmailGen&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<a href="https://github.com/Kalii1337/FiveM-Gui-Loader">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kalii1337&repo=FiveM-Gui-Loader&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
-<a href="https://github.com/Kalii1337/CS2-Rage-Cheat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kalii1337&repo=CS2-Rage-Cheat&theme=react&bg_color=1F222E&title_color=F8D866&hide_border=true&icon_color=F8D866&show_icons=false" />
-</a>
