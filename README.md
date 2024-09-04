@@ -1,7 +1,8 @@
 <h1 align="center">
         x03e
+https://ammo.lol/kali
 </h1>
-```https://ammo.lol/kali```
+
 
 ### About Me:    
 I'm adept at debugging intricate C# applications, optimizing algorithms in C, crafting efficient solutions in C++, rapidly prototyping with Python, and navigating the realms of Kali Linux as a skilled web developer, debugger, exploiter, and reverse engineer.
