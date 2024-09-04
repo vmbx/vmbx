@@ -1,6 +1,5 @@
 <h1 align="center">
         x03e
-https://ammo.lol/kali
 </h1>
 
 
