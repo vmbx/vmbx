@@ -1,6 +1,6 @@
 <div style="background-color: white; padding: 10px;">
   <div align="center" style="border-radius: 50%; overflow: hidden; width: 150px; height: 150px;">
-    <img src="https://github.com/x03ee/FiveM-Gui-Loader/main/f2b9f3714a5fbd3540d71425835775e6_1.png" 
+    <img src="https://github.com/x03ee/FiveM-Gui-Loader/f2b9f3714a5fbd3540d71425835775e6_1.png" 
     style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
 
