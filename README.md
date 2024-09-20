@@ -1,6 +1,6 @@
 <div style="background-color: white; padding: 10px;">
   <div align="center">
-    <img height="150" src="https://media.discordapp.net/attachments/781481778795118612/1198196910008315956/cat_walk_2.gif"  />
+    <img height="150" src="https://github.com/x03ee/FiveM-Gui-Loader/blob/main/f2b9f3714a5fbd3540d71425835775e6_1.png"  />
   </div>
 
   <h4 align="center">Reverse Engineer | Cyber Security</h4>
