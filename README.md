@@ -1,4 +1,4 @@
-<div style="background-color: white; clear: both;">
+<div style="background-color: white; padding: 10px;">
   <div align="center">
     <img height="150" src="https://media.discordapp.net/attachments/781481778795118612/1198196910008315956/cat_walk_2.gif"  />
   </div>
