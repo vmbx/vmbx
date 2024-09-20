@@ -1,6 +1,6 @@
 <div style="background-color: white; padding: 10px;">
   <div align="center">
-    <img height="150" src="https://raw.githubusercontent.com/x03ee/FiveM-Gui-Loader/main/f2b9f3714a5fbd3540d71425835775e6_1.png" 
+    <img height="150" src="https://github.com/x03ee/FiveM-Gui-Loader/blob/main/f2b9f3714a5fbd3540d71425835775e6_1.png" 
     style="border-radius: 50%; width: 150px; height: 150px;" />
   </div>
 
