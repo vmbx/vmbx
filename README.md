@@ -7,7 +7,7 @@
 
   <div align="center">
     <a href="https://tryhackme.com/p/x03e" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/src/assets/icons/social/tryhackme/default.svg" width="40" height="35" alt="discord logo"  />
+      <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="40" height="35" alt="discord logo"  />
     </a>
   </div>
 </div>
