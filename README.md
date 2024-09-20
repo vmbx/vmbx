@@ -1,13 +1,12 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/5f/93/49/5f934966a1d20bae1909c9ef2278bd4c.gif"  />
+  <img height="150" src="https://media.discordapp.net/attachments/781481778795118612/1198196910008315956/cat_walk_2.gif"  />
 </div>
 
 ###
 
-<h4 align="center">17 year old security researcher interested in windows architecture.</h4>
-<h4 align="center">Founder @ReverseSec</h4>
+<h4 align="center">Reverse Engineer | Cyber Security</h4>
 
 
 ###
@@ -15,7 +14,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://discordlookup.com/user/1163917765967613952" target="_blank">
+  <a href="https://tryhackme.com/p/x03e" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/refs/heads/main/src/assets/icons/social/tryhackme/default.svg" width="40" height="35" alt="discord logo"  />
   </a>
 </div>
