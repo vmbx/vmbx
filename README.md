@@ -1,8 +1,9 @@
 <div style="background-color: white; padding: 10px;">
-  <div align="center">
-    <img height="150" src="https://github.com/x03ee/FiveM-Gui-Loader/blob/main/f2b9f3714a5fbd3540d71425835775e6_1.png" 
-    style="border-radius: 50%; width: 150px; height: 150px;" />
+  <div align="center" style="width: 150px; height: 150px; overflow: hidden; border-radius: 50%;">
+    <img src="https://github.com/x03ee/FiveM-Gui-Loader/blob/main/f2b9f3714a5fbd3540d71425835775e6_1.png" 
+    style="width: 100%; height: 100%; object-fit: cover;" />
   </div>
+
 
 
   <h4 align="center">Reverse Engineer | Cyber Security</h4>
