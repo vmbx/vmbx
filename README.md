@@ -1,6 +1,4 @@
 <div style="text-align: center;">
-  <img src=""
-       style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover;" />
   <h4 align="center">Reverse Engineer | Cyber Security</h4>
 
   <div align="center">
