@@ -5,8 +5,6 @@
 
 <div style="text-align: center;">
   <h4 align="center">Reverse Engineer | Cyber Security</h4>
-     <h4 align="center">CTF WriteUps</h4>
-          <h4 align="center">↓</h4>
    <h4 align="center">https://x03ee.github.io</h4>
 
   <div align="center">
