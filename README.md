@@ -1,6 +1,6 @@
 # 👾 x03e's GitHub Profile
 
-<img src="https://discord.c99.nl/widget/theme-1/535227610888929299" alt="Discord Status">
+<img src=https://discord.c99.nl/widget/theme-3/535227610888929299.png" alt="Discord Status">
 
 ## 🕵️‍♂️ Cybersecurity Enthusiast
 
