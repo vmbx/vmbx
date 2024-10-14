@@ -1,23 +1,40 @@
-<div align="center">
-  <img height="150" src="https://github.com/x03ee/x03ee/blob/main/my.png"  />
-</div>
+# 👾 x03e's GitHub Profile
 
+## 🕵️‍♂️ Cybersecurity Enthusiast | CTF Player | Writeup Author
 
-<div style="text-align: center;">
-  <h4 align="center">Reverse Engineer | Cyber Security</h4>
+Hey there! I'm x03e, a cybersecurity researcher and CTF (Capture The Flag) player who loves to explore, hack, and learn. I regularly participate in various cybersecurity competitions and write technical writeups to share the knowledge and techniques I've picked up along the way.
 
-  <div align="center">
-    <a href="https://discord.com/users/535227610888929299" target="_blank">
-      <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c1f22aef3b6921d63d_636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" width="40" height="35" alt="discordlogo"  />
-    </a>
-    <a href="https://tryhackme.com/p/x03e" target="_blank">
-      <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="40" height="35" alt="tryhackme"  />
-    </a>
-  </div>
-</div>
-<table width="2000">
-<tr>
+### 🔒 What I Do:
+- 🔧 Exploit development
+- 🕵️‍♂️ Reverse engineering
+- 🐾 Forensic analysis
+- 🔐 Cryptography challenges
+- ⚡ Web vulnerabilities and pentesting
+
+### 🎯 CTFs & Writeups:
+I’ve participated in numerous CTF events, where I’ve tackled challenges related to:
+- Reverse engineering binaries
+- Analyzing network traffic for hidden data
+- Exploiting vulnerabilities in web applications and servers
+- Cryptography puzzles
+
+Check out my writeups for various challenges [here](https://github.com/x03e/writeups).
+
+---
+
+## 🏆 GitHub Trophies
+
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=x03ee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-<!-- <td>![](https://github-trophies.vercel.app/?username=x03ee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
-</tr>
-</table>
+
+---
+
+### 💻 Languages & Tools:
+- Kali Linux
+- Python, Bash, C, C++
+- IDA Pro, Ghidra
+- Wireshark, Burp Suite
+- Metasploit, Nmap
+
+### 🌍 Connect with Me:
+- Twitter: [@x03e](https://twitter.com/x03e)
+- GitHub: [x03e](https://github.com/x03e)
