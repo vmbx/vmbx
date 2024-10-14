@@ -1,12 +1,3 @@
-
-<!-- <img align="left" width="100%" alt="🦑" src="/bigass.svg"> -->
-<table width="2000">
-<tr>
-<td width="2000"><img align="center" width="100%" alt="🦑" src="/bigass.svg"></td>
-</tr>
-</table>
-<!-- <img align="right" width="45%" alt="🦑" src="/charts.svg">
-
 <img align="left" width="50%" alt="🦑" src="/anilist.svg">
 <img align="right" width="45%" alt="🦑" src="/pagespeed.svg">
 
@@ -23,8 +14,6 @@
 <td><img align="" width="" alt="🦑" src="/asuka.gif"></td>
 </tr>
 </table>
-
-<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
 <table width="2000">
 <tr>
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=x03ee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
