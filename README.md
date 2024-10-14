@@ -1,5 +1,3 @@
-# 𝒙03𝒆
-
 <img src="https://discord.c99.nl/widget/theme-3/535227610888929299.png" alt="Discord Status">
 
 ## 🕵️‍♂️ 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕
