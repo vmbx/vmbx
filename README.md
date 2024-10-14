@@ -1,5 +1,7 @@
 # 👾 x03e's GitHub Profile
 
+<img src="https://discord.c99.nl/widget/theme-1/535227610888929299" alt="Discord Status">
+
 ## 🕵️‍♂️ Cybersecurity Enthusiast
 
 Hey there! I'm x03e, a cybersecurity researcher and CTF (Capture The Flag) player who loves to explore, hack, and learn. I regularly participate in various cybersecurity competitions and write technical writeups to share the knowledge and techniques I've picked up along the way.
