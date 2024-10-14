@@ -1,19 +1,23 @@
-<table>
-<tr>	
-<td><img align="" width="" alt="🦑" src="/asuka.gif"></td>
-</tr>
-</table>
+<div align="center">
+  <img height="150" src="https://github.com/x03ee/x03ee/blob/main/my.png"  />
+</div>
 
-<!-- <img width="100%" alt="🦑" src="/IMG_4568.jpg"> -->
+
+<div style="text-align: center;">
+  <h4 align="center">Reverse Engineer | Cyber Security</h4>
+
+  <div align="center">
+    <a href="https://discord.com/users/535227610888929299" target="_blank">
+      <img src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/653714c1f22aef3b6921d63d_636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" width="40" height="35" alt="discordlogo"  />
+    </a>
+    <a href="https://tryhackme.com/p/x03e" target="_blank">
+      <img src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" width="40" height="35" alt="tryhackme"  />
+    </a>
+  </div>
+</div>
 <table width="2000">
 <tr>
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=x03ee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
 <!-- <td>![](https://github-trophies.vercel.app/?username=x03ee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox)</td> -->
 </tr>
 </table>
-
-<!-- <table>
-<tr>
-<td><img src="https://s01.flagcounter.com/count/IK7Q/bg_000000/txt_FFFFFF/border_FFFFFF/columns_9/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></td>
-</tr>
-</table> -->
