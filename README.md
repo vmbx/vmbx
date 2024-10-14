@@ -23,12 +23,3 @@ I’ve participated in numerous CTF events, where I’ve tackled challenges rela
 ## 🏆 GitHub Trophies
 
 <td width="2000"><img src="https://github-trophies.vercel.app/?username=x03ee&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=9&theme=gruvbox"></td>
-
----
-
-### 💻 Languages & Tools:
-- Kali Linux
-- Python, Bash, C, C++
-- IDA Pro, Ghidra
-- Wireshark, Burp Suite
-- Metasploit, Nmap
