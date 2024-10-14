@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/535227610888929299)](https://discord.com/users/535227610888929299)
+[![Discord Presence](https://lanyard.cnrad.dev/api/535227610888929299?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/535227610888929299)
 
 ## 🕵️‍♂️ 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕
 
