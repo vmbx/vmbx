@@ -18,8 +18,6 @@ I’ve participated in numerous CTF events, where I’ve tackled challenges rela
 - Exploiting vulnerabilities in web applications and servers
 - Cryptography puzzles
 
-Check out my writeups for various challenges [here](https://github.com/x03e/writeups).
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -34,7 +32,3 @@ Check out my writeups for various challenges [here](https://github.com/x03e/writ
 - IDA Pro, Ghidra
 - Wireshark, Burp Suite
 - Metasploit, Nmap
-
-### 🌍 Connect with Me:
-- Twitter: [@x03e](https://twitter.com/x03e)
-- GitHub: [x03e](https://github.com/x03e)
