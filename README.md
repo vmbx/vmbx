@@ -1,5 +1,7 @@
 <img src="https://discord.c99.nl/widget/theme-3/535227610888929299.png" alt="Discord Status">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/535227610888929299)](https://discord.com/users/535227610888929299)
+
 ## 🕵️‍♂️ 𝑪𝒚𝒃𝒆𝒓𝒔𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕
 
 Hey there! I'm __x03e__, a cybersecurity researcher and CTF (Capture The Flag) player with a passion for exploring, hacking, and learning. I regularly participate in cybersecurity competitions and share my insights through technical writeups on the techniques and knowledge I've acquired.
