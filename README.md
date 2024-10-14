@@ -1,6 +1,6 @@
 # 👾 x03e's GitHub Profile
 
-## 🕵️‍♂️ Cybersecurity Enthusiast | CTF Player | Writeup Author
+## 🕵️‍♂️ Cybersecurity Enthusiast
 
 Hey there! I'm x03e, a cybersecurity researcher and CTF (Capture The Flag) player who loves to explore, hack, and learn. I regularly participate in various cybersecurity competitions and write technical writeups to share the knowledge and techniques I've picked up along the way.
 
