@@ -1,5 +1,7 @@
 ```css
-- Finding vulnerabilities
+- Web Exploiter
 - Cyber Security
 - Reverse Engineer
+- Malware Anaylser
+- Vulnerabilities
 ```
