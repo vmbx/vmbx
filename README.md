@@ -4,7 +4,7 @@
 
 <h4 align="center">Cyber Security | Digital Security | Network Security | Malware Analysis</h4>
 
-<details><summary>CTF TOURNAMENT</summary>
+<details><summary>CTF TOURNAMENT. Click here.</summary>
 
 | CTF                                                                                                                       | Rank                                                                                                |
 |---------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
