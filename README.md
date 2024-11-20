@@ -5,5 +5,6 @@
 </div>
 
 ```css
-<h4 align="center">- Cyber Security | Digital Security | Network Security | Malware Analysis</h4>
+Cyber Security | Digital Security | Network Security | Malware Analysis
+```
 
