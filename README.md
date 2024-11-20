@@ -1,7 +1,3 @@
 ```css
-- Web Exploiter
-- Cyber Security
-- Reverse Engineer
-- Malware Anaylser
-- Vulnerabilities
+- Cyber Security | Digital Security | Network Security | Malware Analysis
 ```
