@@ -3,7 +3,7 @@
 </div>
 <h4 align="center">Cyber Security | Digital Security | Network Security | Malware Analysis</h4>
 <details>
-   <summary align="center">CTF TOURNAMENTS PLAYED.</summary>
+   <summary align="center">CTF TOURNAMENTS PLAYED</summary>
    <div align="center">
       <table>
          <tr>
