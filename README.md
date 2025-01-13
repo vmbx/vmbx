@@ -3,5 +3,4 @@
 
                                                         links:
                                                  • https://xroot.me
-                                           • https://tryhackme.com/r/p/x03e
 ```
