@@ -1,5 +1,5 @@
 ```js
-                          Cyber Security | Digital Security | Network Security | Malware Analysis
+                                          Cyber Security | Malware Analysis
 
                                                         links:
                                                  • https://xroot.me
