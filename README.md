@@ -1,3 +1,11 @@
+ <div style="
+        background-image: url('https://github.com/vmbx/vmbx/blob/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif');
+        background-size: cover;
+        background-position: center;
+        padding: 20px;
+        color: white;
+">
+
 ```js
                                                        Cyber Security
                         
