@@ -6,7 +6,9 @@
 ```
 ###
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vmbx" alt="GitHub Stats"> <br><br>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmbx" alt="GitHub Stats"> <br><br>
+</p></div>
 
 <br clear="both">
 
