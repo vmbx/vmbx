@@ -1,26 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
-  <a href="https://your-link.com" target="_blank">
-    <rect x="0" y="0" rx="8" ry="8" width="200" height="50"
-          fill="#1A1B1E">
-      <animate attributeName="fill"
-               values="#1A1B1E;#CBCCCD;#1A1B1E"
-               dur="0.4s"
-               begin="mouseover"
-               fill="freeze"/>
-      <animate attributeName="fill"
-               values="#CBCCCD;#1A1B1E"
-               dur="0.3s"
-               begin="mouseout"
-               fill="freeze"/>
-    </rect>
-    <text x="100" y="30"
-          font-size="16"
-          text-anchor="middle"
-          fill="#f1f1f1"
-          font-family="Arial, sans-serif"
-          pointer-events="none"
-          id="buttonText">
-      Button Text
-    </text>
-  </a>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50" fill="none">
+  <foreignObject width="200" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="width: 200px; height: 50px;">
+      <style>
+        .btn {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          width: 200px;
+          height: 50px;
+          background-color: #1A1B1E;
+          border-radius: 8px;
+          color: #f1f1f1;
+          font-family: Arial, sans-serif;
+          font-size: 16px;
+          cursor: pointer;
+          user-select: none;
+          transition: background-color 0.3s ease, color 0.3s ease;
+          text-decoration: none;
+        }
+        .btn:hover {
+          background-color: #CBCCCD;
+          color: black;
+        }
+      </style>
+      <a href="https://your-link.com" target="_blank" class="btn" xmlns="http://www.w3.org/1999/xhtml">
+        Button Text
+      </a>
+    </div>
+  </foreignObject>
 </svg>
