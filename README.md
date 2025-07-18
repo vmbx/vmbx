@@ -7,7 +7,7 @@
 ```
 ###
 
-<table>
+<table border="0">
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/vmbx/vmbx/output/snake.svg" alt="Snake animation" />
