@@ -26,4 +26,9 @@
       <img src="https://raw.githubusercontent.com/vmbx/vmbx/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif" width="100%" height="345" alt="Background" />
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding-top: 10px;">
+      <img src="https://github-profile-trophy.vercel.app/?username=vmbx&theme=dark&title=Commits,Experience" alt="GitHub Trophies" />
+    </td>
+  </tr>
 </table>
