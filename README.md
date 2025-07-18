@@ -15,6 +15,9 @@
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmbx&theme=dark" alt="GitHub Stats" />
     </td>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=vmbx&theme=dark&title=Commits,Experience" alt="GitHub Trophies" />
+    </td>
   </tr>
 </table>
 
