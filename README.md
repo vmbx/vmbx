@@ -20,10 +20,11 @@
 
 ###
 
-<table style="width: 220px; margin: 0 auto;">
+<table style="margin: 0 auto; display: inline-table;">
   <tr>
     <td align="center">
       <img src="https://github-profile-trophy.vercel.app/?username=vmbx&theme=dark&title=Commits,Experience" alt="GitHub Trophies" />
     </td>
   </tr>
 </table>
+
