@@ -7,12 +7,16 @@
 ```
 ###
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmbx&theme=dark" alt="GitHub Stats"> <br><br>
-</p></div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmbx&theme=dark" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/vmbx/vmbx/output/snake.svg" alt="Snake animation" />
+    </td>
+  </tr>
+</table>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vmbx/vmbx/output/snake.svg" alt="Snake animation" />
 
 ###
