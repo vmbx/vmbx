@@ -22,7 +22,7 @@
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" style="padding-right: 40px;">
       <img src="https://raw.githubusercontent.com/vmbx/vmbx/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif" width="100%" height="350" alt="Background" />
     </td>
     <td align="center">
@@ -30,3 +30,4 @@
     </td>
   </tr>
 </table>
+
