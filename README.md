@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vmbx/vmbx/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif" width="100%" alt="bg" />
-</p>
-
-
 ```js
                                                        Cyber Security
                         
@@ -22,3 +17,6 @@
     </td>
   </tr>
 </table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vmbx/vmbx/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif" width="100%" alt="bg" />
+</p>
