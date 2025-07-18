@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/vmbx/vmbx/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif" width="100%" height="325" alt="Background" />
+      <img src="https://raw.githubusercontent.com/vmbx/vmbx/main/2258131708-982b745f2-7d22-48cf-91540-083f1b00d36c9.gif" width="100%" height="345" alt="Background" />
     </td>
   </tr>
 </table>
