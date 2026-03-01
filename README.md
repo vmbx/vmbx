@@ -2,7 +2,6 @@
 ┌────────────────────────────────────────┐
 │    Alias: x03e(tsid)                   │
 │    Status: Cyber Security              │
-│    Wesite: https://tsid.dev            │
 └────────────────────────────────────────┘
 </pre>
 
